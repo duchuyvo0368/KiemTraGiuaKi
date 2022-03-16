@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KiemTraGiuaKi</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="save">Save</string>
+    <string name="todo">TODO</string>
+
+</resources>
